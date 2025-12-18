@@ -1,0 +1,4 @@
+213213,alex,flores,722991,abflores,82282,calle 2
+1,Juan,Pérez,12345678A,juan@email.com,555-1234,Calle Principal 123
+2,María,González,87654321B,maria@email.com,555-5678,Avenida Central 456
+213213,alex,flores,722991,abflores,82282,calle 2
